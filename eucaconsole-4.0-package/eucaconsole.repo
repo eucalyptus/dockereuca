@@ -1,0 +1,5 @@
+[eucaconsole]
+name=eucaconsle repo
+baseurl=http://downloads.eucalyptus.com/software/eucalyptus/4.0/centos/6/x86_64
+gpgcheck=0
+enabled=1
